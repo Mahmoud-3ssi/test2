@@ -5,3 +5,9 @@
 ```javascript
 console.log("Hello World!!");
 ```
+
+## This is PHP code
+
+```PHP
+
+```
